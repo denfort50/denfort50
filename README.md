@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-<h4> Analyst | Java Developer <br> </h4>  
+<h4> Java Developer <br> </h4>  
 
 **Knowledge of:** Java, Maven, SQL, NoSQL, Liquibase, JDBC, Hibernate, Spring, Lombok, JUnit, Mockito, Swagger, Kafka, Docker
 
