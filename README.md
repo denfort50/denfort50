@@ -1,16 +1,17 @@
-### Hi there 👋
+## Добро пожаловать на мою страницу GitHub!
 
-<!--
-**denfort50/denfort50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denfort50&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## Мои интересные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul> 
+  <li>
+    <strong><a href="https://github.com/denfort50/sweater">Sweater</a></strong> – аналог Твиттера.
+  </li> Spring Boot, PostgreSQL, Spring MVC, Spring Data JPA, Spring Security, Freemarker, Lombok, Checkstyle
+  <li>
+    <strong><a href="https://github.com/denfort50/job4j_url_shortcut">URL-shortcut</a></strong> – RESTful сервис защиты URL-адресов.
+  </li> Spring Boot, PostgreSQL, Spring Data JPA, Spring Security, Liquibase, Lombok, JWT
+  <!-- <li><strong><a href=""></a></strong></li> -->
+</ul> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denfort50&hide=stars,prs,issues,contribs&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
