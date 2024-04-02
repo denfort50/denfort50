@@ -6,7 +6,7 @@
 
 <ul> 
   <li>
-    <strong><a href="https://github.com/denfort50/sweater">Микросервисы</a></strong> – большой демонстрационный проект, реализующий микросервисную архитектуру.
+    <strong><a href="https://github.com/denfort50/big-microservice-project">Микросервисы</a></strong> – большой демонстрационный проект, реализующий микросервисную архитектуру.
   </li> Java 21, Spring Boot 3.2.4, PostgreSQL, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf
   <li>
     <strong><a href="https://github.com/denfort50/sweater">Sweater</a></strong> – аналог Твиттера.
