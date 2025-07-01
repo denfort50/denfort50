@@ -12,8 +12,8 @@
     <strong><a href="https://github.com/denfort50/job4j_url_shortcut">URL-shortcut</a></strong> – RESTful service for URL security.
   </li> Java 17, Spring Boot 2.7.5, PostgreSQL, Spring Data JPA, Spring Security, Liquibase, JWT
   <li>
-    <strong><a href="https://github.com/denfort50/big-microservice-project">Микросервисы</a></strong> – Microservices-based project.
-  </li> Java 21, Spring Boot 3.2.4, PostgreSQL, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf
+    <strong><a href="https://github.com/denfort50/taco-cloud">Taco Cloud</a></strong> – Taco ordering platform.
+  </li> Java 17, Spring Boot 2.7.9, H2, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf
   <!-- <li><strong><a href=""></a></strong></li> -->
 </ul> 
 
